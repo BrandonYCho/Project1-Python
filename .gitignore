@@ -1,2 +1,5 @@
 *.class
 *.log
+*.ipynb_checkpoints
+Pipfile
+Pipfile.lock
